@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* The original stylesheet (legacy.css) provides the design. Tailwind utilities are available
+   for new components and load after it, so they win when both apply. */

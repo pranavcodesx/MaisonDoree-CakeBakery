@@ -1,0 +1,43 @@
+# Render "Blueprint": one free web service that serves the API, the website (/) and the admin panel (/admin).
+# Docs: https://render.com/docs/blueprint-spec
+services:
+  - type: web
+    name: maison-doree
+    runtime: node
+    plan: free
+    buildCommand: npm run render-build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: NODE_ENV
+        value: production
+      - key: JWT_SECRET
+        generateValue: true          # Render makes a long random secret for you
+      - key: MONGO_URI
+        sync: false                  # paste your MongoDB Atlas connection string in the Render dashboard
+      - key: CLOUDINARY_CLOUD_NAME
+        sync: false
+      - key: CLOUDINARY_API_KEY
+        sync: false
+      - key: CLOUDINARY_API_SECRET
+        sync: false
+      - key: GOOGLE_CLIENT_ID        # optional: turns on "Continue with Google"
+        sync: false
+      - key: PUBLIC_URL              # your site address, e.g. https://maison-doree.onrender.com (used in reset-password emails)
+        sync: false
+      - key: SMTP_HOST               # forgot-password emails (e.g. smtp.gmail.com)
+        sync: false
+      - key: SMTP_PORT
+        value: 587
+      - key: SMTP_USER
+        sync: false
+      - key: SMTP_PASS
+        sync: false
+      - key: MAIL_FROM
+        sync: false
+      - key: RAZORPAY_KEY_ID         # optional: leave empty for Cash on Delivery only
+        sync: false
+      - key: RAZORPAY_KEY_SECRET
+        sync: false

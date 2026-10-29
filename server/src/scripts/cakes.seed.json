@@ -1,0 +1,806 @@
+[
+  {
+    "name": "Molten Chocolate Truffle",
+    "category": "chocolate",
+    "occasions": [
+      "birthday",
+      "anniversary"
+    ],
+    "flavor": "Chocolate",
+    "price": 899,
+    "was": 1099,
+    "egg": true,
+    "tags": [
+      "bestseller",
+      "trending"
+    ],
+    "theme": "chocolate",
+    "weightG": 1000,
+    "desc": "A chocolate cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Classic Red Velvet",
+    "category": "birthday",
+    "occasions": [
+      "birthday",
+      "valentine"
+    ],
+    "flavor": "Red Velvet",
+    "price": 749,
+    "egg": true,
+    "tags": [
+      "bestseller"
+    ],
+    "theme": "redvelvet",
+    "weightG": 1000,
+    "desc": "A red velvet cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Belgian Dark Forest",
+    "category": "chocolate",
+    "occasions": [
+      "birthday",
+      "anniversary"
+    ],
+    "flavor": "Chocolate",
+    "price": 999,
+    "was": 1199,
+    "egg": true,
+    "tags": [
+      "trending"
+    ],
+    "theme": "chocolate",
+    "weightG": 1000,
+    "desc": "A chocolate cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Fresh Strawberry Bliss",
+    "category": "fruit",
+    "occasions": [
+      "birthday",
+      "anniversary"
+    ],
+    "flavor": "Fruit",
+    "price": 849,
+    "egg": false,
+    "tags": [
+      "bestseller",
+      "eggless"
+    ],
+    "theme": "fruit",
+    "weightG": 1000,
+    "desc": "A fruit cake with a delicate crumb, layered by hand and finished the day it ships. A fully eggless recipe, no compromise on texture."
+  },
+  {
+    "name": "Golden Pistachio Rose",
+    "category": "designer",
+    "occasions": [
+      "wedding",
+      "anniversary"
+    ],
+    "flavor": "Pistachio",
+    "price": 1399,
+    "was": 1599,
+    "egg": true,
+    "tags": [
+      "new",
+      "premium"
+    ],
+    "theme": "pistachio",
+    "weightG": 1500,
+    "desc": "A pistachio cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Royal Wedding Tier",
+    "category": "wedding",
+    "occasions": [
+      "wedding"
+    ],
+    "flavor": "Vanilla",
+    "price": 3499,
+    "was": 3999,
+    "egg": true,
+    "tags": [
+      "premium"
+    ],
+    "theme": "gold",
+    "weightG": 3000,
+    "desc": "A vanilla cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Butterscotch Dream",
+    "category": "birthday",
+    "occasions": [
+      "birthday",
+      "kids"
+    ],
+    "flavor": "Butterscotch",
+    "price": 799,
+    "egg": true,
+    "tags": [
+      "bestseller"
+    ],
+    "theme": "caramel",
+    "weightG": 1000,
+    "desc": "A butterscotch cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Choco Chip Mini Cupcakes (Box of 6)",
+    "category": "cupcakes",
+    "occasions": [
+      "birthday",
+      "kids"
+    ],
+    "flavor": "Chocolate",
+    "price": 449,
+    "egg": true,
+    "tags": [
+      "bestseller"
+    ],
+    "theme": "chocolate",
+    "weightG": 300,
+    "desc": "A chocolate cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Vanilla Bean Cheesecake",
+    "category": "cheesecakes",
+    "occasions": [
+      "birthday",
+      "anniversary"
+    ],
+    "flavor": "Vanilla",
+    "price": 1099,
+    "egg": true,
+    "tags": [
+      "new"
+    ],
+    "theme": "vanilla",
+    "weightG": 900,
+    "desc": "A vanilla cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "French Macaron Tower (24 pc)",
+    "category": "macarons",
+    "occasions": [
+      "wedding",
+      "anniversary"
+    ],
+    "flavor": "Assorted",
+    "price": 1899,
+    "was": 2199,
+    "egg": false,
+    "tags": [
+      "premium",
+      "eggless"
+    ],
+    "theme": "blush",
+    "weightG": 600,
+    "desc": "A assorted cake with a delicate crumb, layered by hand and finished the day it ships. A fully eggless recipe, no compromise on texture."
+  },
+  {
+    "name": "Midnight Fudge Brownies (Box of 9)",
+    "category": "brownies",
+    "occasions": [
+      "birthday"
+    ],
+    "flavor": "Chocolate",
+    "price": 549,
+    "egg": true,
+    "tags": [
+      "bestseller"
+    ],
+    "theme": "chocolate",
+    "weightG": 450,
+    "desc": "A chocolate cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Photo Print Birthday Cake",
+    "category": "photo",
+    "occasions": [
+      "birthday",
+      "kids"
+    ],
+    "flavor": "Vanilla",
+    "price": 949,
+    "egg": true,
+    "tags": [
+      "trending"
+    ],
+    "theme": "vanilla",
+    "weightG": 1000,
+    "desc": "A vanilla cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Kids Unicorn Fantasy",
+    "category": "kids",
+    "occasions": [
+      "birthday"
+    ],
+    "flavor": "Vanilla",
+    "price": 1149,
+    "was": 1349,
+    "egg": false,
+    "tags": [
+      "new",
+      "eggless"
+    ],
+    "theme": "blush",
+    "weightG": 1000,
+    "desc": "A vanilla cake with a delicate crumb, layered by hand and finished the day it ships. A fully eggless recipe, no compromise on texture."
+  },
+  {
+    "name": "Eggless Choco Overload",
+    "category": "eggless",
+    "occasions": [
+      "birthday"
+    ],
+    "flavor": "Chocolate",
+    "price": 899,
+    "egg": false,
+    "tags": [
+      "bestseller",
+      "eggless"
+    ],
+    "theme": "chocolate",
+    "weightG": 1000,
+    "desc": "A chocolate cake with a delicate crumb, layered by hand and finished the day it ships. A fully eggless recipe, no compromise on texture."
+  },
+  {
+    "name": "Caramel Pecan Symphony",
+    "category": "premium",
+    "occasions": [
+      "anniversary",
+      "wedding"
+    ],
+    "flavor": "Caramel",
+    "price": 1299,
+    "was": 1499,
+    "egg": true,
+    "tags": [
+      "premium"
+    ],
+    "theme": "caramel",
+    "weightG": 1200,
+    "desc": "A caramel cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Diwali Dry Fruit Delight",
+    "category": "festive",
+    "occasions": [
+      "diwali"
+    ],
+    "flavor": "Dry Fruit",
+    "price": 999,
+    "egg": true,
+    "tags": [
+      "seasonal"
+    ],
+    "theme": "caramel",
+    "weightG": 1000,
+    "desc": "A dry fruit cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Christmas Plum Cake",
+    "category": "festive",
+    "occasions": [
+      "christmas"
+    ],
+    "flavor": "Plum",
+    "price": 899,
+    "egg": true,
+    "tags": [
+      "seasonal"
+    ],
+    "theme": "caramel",
+    "weightG": 900,
+    "desc": "A plum cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Rose Pink Ombre",
+    "category": "designer",
+    "occasions": [
+      "wedding",
+      "anniversary"
+    ],
+    "flavor": "Vanilla",
+    "price": 1199,
+    "egg": true,
+    "tags": [
+      "new"
+    ],
+    "theme": "blush",
+    "weightG": 1000,
+    "desc": "A vanilla cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Blueberry Cheesecake Tart",
+    "category": "cheesecakes",
+    "occasions": [
+      "anniversary"
+    ],
+    "flavor": "Blueberry",
+    "price": 1149,
+    "was": 1349,
+    "egg": true,
+    "tags": [
+      "new"
+    ],
+    "theme": "blush",
+    "weightG": 900,
+    "desc": "A blueberry cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Almond Croissant Box (6 pc)",
+    "category": "pastries",
+    "occasions": [
+      "birthday"
+    ],
+    "flavor": "Almond",
+    "price": 599,
+    "egg": true,
+    "tags": [
+      "trending"
+    ],
+    "theme": "caramel",
+    "weightG": 400,
+    "desc": "A almond cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Sea Salt Caramel Cookies (Box of 8)",
+    "category": "cookies",
+    "occasions": [
+      "birthday"
+    ],
+    "flavor": "Caramel",
+    "price": 399,
+    "egg": true,
+    "tags": [
+      "trending"
+    ],
+    "theme": "caramel",
+    "weightG": 350,
+    "desc": "A caramel cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Engagement Gold Leaf Cake",
+    "category": "wedding",
+    "occasions": [
+      "engagement",
+      "wedding"
+    ],
+    "flavor": "Chocolate",
+    "price": 1799,
+    "was": 1999,
+    "egg": true,
+    "tags": [
+      "premium"
+    ],
+    "theme": "gold",
+    "weightG": 1500,
+    "desc": "A chocolate cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Baby Blue Shower Cake",
+    "category": "designer",
+    "occasions": [
+      "baby-shower"
+    ],
+    "flavor": "Vanilla",
+    "price": 1099,
+    "egg": false,
+    "tags": [
+      "new",
+      "eggless"
+    ],
+    "theme": "vanilla",
+    "weightG": 1000,
+    "desc": "A vanilla cake with a delicate crumb, layered by hand and finished the day it ships. A fully eggless recipe, no compromise on texture."
+  },
+  {
+    "name": "Graduation Cap Special",
+    "category": "designer",
+    "occasions": [
+      "graduation"
+    ],
+    "flavor": "Chocolate",
+    "price": 999,
+    "egg": true,
+    "tags": [
+      "new"
+    ],
+    "theme": "chocolate",
+    "weightG": 1000,
+    "desc": "A chocolate cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Raksha Bandhan Rakhi Cake",
+    "category": "festive",
+    "occasions": [
+      "raksha-bandhan"
+    ],
+    "flavor": "Butterscotch",
+    "price": 849,
+    "egg": true,
+    "tags": [
+      "seasonal"
+    ],
+    "theme": "caramel",
+    "weightG": 900,
+    "desc": "A butterscotch cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Friendship Fun Photo Cake",
+    "category": "photo",
+    "occasions": [
+      "friendship-day"
+    ],
+    "flavor": "Vanilla",
+    "price": 799,
+    "egg": true,
+    "tags": [
+      "seasonal"
+    ],
+    "theme": "blush",
+    "weightG": 900,
+    "desc": "A vanilla cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Dark Chocolate Fondant Slice",
+    "category": "chocolate",
+    "occasions": [
+      "birthday"
+    ],
+    "flavor": "Chocolate",
+    "price": 299,
+    "egg": true,
+    "tags": [
+      "bestseller"
+    ],
+    "theme": "chocolate",
+    "weightG": 250,
+    "desc": "A chocolate cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Classic Vanilla Bean",
+    "category": "birthday",
+    "occasions": [
+      "birthday"
+    ],
+    "flavor": "Vanilla",
+    "price": 699,
+    "egg": true,
+    "tags": [],
+    "theme": "vanilla",
+    "weightG": 1000,
+    "desc": "A vanilla cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Valentine's Heart Red Velvet",
+    "category": "designer",
+    "occasions": [
+      "valentine"
+    ],
+    "flavor": "Red Velvet",
+    "price": 949,
+    "was": 1099,
+    "egg": true,
+    "tags": [
+      "seasonal"
+    ],
+    "theme": "redvelvet",
+    "weightG": 1000,
+    "desc": "A red velvet cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "New Year Sparkle Cake",
+    "category": "festive",
+    "occasions": [
+      "new-year"
+    ],
+    "flavor": "Chocolate",
+    "price": 999,
+    "egg": true,
+    "tags": [
+      "seasonal"
+    ],
+    "theme": "gold",
+    "weightG": 1000,
+    "desc": "A chocolate cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Father's Day Whiskey Choc",
+    "category": "designer",
+    "occasions": [
+      "fathers-day"
+    ],
+    "flavor": "Chocolate",
+    "price": 1099,
+    "egg": true,
+    "tags": [
+      "new"
+    ],
+    "theme": "chocolate",
+    "weightG": 1000,
+    "desc": "A chocolate cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Mother's Day Floral Cake",
+    "category": "designer",
+    "occasions": [
+      "mothers-day"
+    ],
+    "flavor": "Vanilla",
+    "price": 1049,
+    "egg": true,
+    "tags": [
+      "new"
+    ],
+    "theme": "blush",
+    "weightG": 1000,
+    "desc": "A vanilla cake with a delicate crumb, layered by hand and finished the day it ships. Made with farm-fresh eggs."
+  },
+  {
+    "name": "Fresh Mango Mousse Cake",
+    "category": "fruit",
+    "occasions": [
+      "birthday",
+      "anniversary"
+    ],
+    "flavor": "Mango",
+    "price": 1049,
+    "egg": true,
+    "tags": [
+      "seasonal",
+      "new"
+    ],
+    "theme": "fruit",
+    "weightG": 1000,
+    "desc": "Silky Alphonso mango mousse over a soft vanilla sponge, finished with fresh mango cubes. A summer favourite.",
+    "was": 1199
+  },
+  {
+    "name": "Pineapple Delight",
+    "category": "birthday",
+    "occasions": [
+      "birthday",
+      "kids"
+    ],
+    "flavor": "Pineapple",
+    "price": 699,
+    "egg": true,
+    "tags": [
+      "bestseller"
+    ],
+    "theme": "vanilla",
+    "weightG": 1000,
+    "desc": "Light vanilla sponge layered with whipped cream and juicy pineapple pieces. Simple, fresh and loved by everyone."
+  },
+  {
+    "name": "Classic Black Forest",
+    "category": "birthday",
+    "occasions": [
+      "birthday",
+      "anniversary"
+    ],
+    "flavor": "Black Forest",
+    "price": 799,
+    "egg": true,
+    "tags": [
+      "bestseller"
+    ],
+    "theme": "chocolate",
+    "weightG": 1000,
+    "desc": "Chocolate sponge soaked in cherry syrup, whipped cream, dark chocolate shavings and cherries on top."
+  },
+  {
+    "name": "Rasmalai Cake",
+    "category": "festive",
+    "occasions": [
+      "diwali",
+      "anniversary",
+      "birthday"
+    ],
+    "flavor": "Rasmalai",
+    "price": 1199,
+    "egg": false,
+    "tags": [
+      "trending",
+      "new"
+    ],
+    "theme": "gold",
+    "weightG": 1000,
+    "desc": "Cardamom-scented sponge soaked in rasmalai milk, layered with creamy malai and topped with pistachio and saffron.",
+    "was": 1399
+  },
+  {
+    "name": "Kesar Pista Elegance",
+    "category": "premium",
+    "occasions": [
+      "anniversary",
+      "wedding"
+    ],
+    "flavor": "Saffron Pistachio",
+    "price": 1499,
+    "egg": false,
+    "tags": [
+      "premium"
+    ],
+    "theme": "pistachio",
+    "weightG": 1000,
+    "desc": "A rich saffron sponge with pistachio cream and crushed pistachios. Fully eggless and made for special occasions."
+  },
+  {
+    "name": "Cookies & Cream Cheesecake",
+    "category": "cheesecakes",
+    "occasions": [
+      "birthday",
+      "friendship-day"
+    ],
+    "flavor": "Cookies & Cream",
+    "price": 1199,
+    "egg": true,
+    "tags": [
+      "trending"
+    ],
+    "theme": "vanilla",
+    "weightG": 900,
+    "desc": "Creamy baked cheesecake on a crunchy chocolate cookie base, topped with cookie crumble."
+  },
+  {
+    "name": "Caramelised Biscuit Cheesecake",
+    "category": "cheesecakes",
+    "occasions": [
+      "birthday",
+      "anniversary"
+    ],
+    "flavor": "Biscuit Caramel",
+    "price": 1249,
+    "egg": true,
+    "tags": [
+      "new"
+    ],
+    "theme": "caramel",
+    "weightG": 900,
+    "desc": "Smooth cheesecake with a spiced biscuit base and a ribbon of golden caramel on top."
+  },
+  {
+    "name": "Eggless Pineapple Cream",
+    "category": "eggless",
+    "occasions": [
+      "birthday",
+      "kids"
+    ],
+    "flavor": "Pineapple",
+    "price": 749,
+    "egg": false,
+    "tags": [
+      "eggless",
+      "bestseller"
+    ],
+    "theme": "vanilla",
+    "weightG": 1000,
+    "desc": "Soft eggless vanilla sponge with fresh cream and sweet pineapple. A family favourite for pure-veg homes."
+  },
+  {
+    "name": "Eggless Butterscotch Crunch",
+    "category": "eggless",
+    "occasions": [
+      "birthday",
+      "anniversary"
+    ],
+    "flavor": "Butterscotch",
+    "price": 799,
+    "egg": false,
+    "tags": [
+      "eggless"
+    ],
+    "theme": "caramel",
+    "weightG": 1000,
+    "desc": "Eggless butterscotch sponge with caramel cream and crunchy praline on top."
+  },
+  {
+    "name": "Fresh Fruit Gateau",
+    "category": "fruit",
+    "occasions": [
+      "birthday",
+      "anniversary",
+      "mothers-day"
+    ],
+    "flavor": "Mixed Fruit",
+    "price": 899,
+    "egg": true,
+    "tags": [
+      "new"
+    ],
+    "theme": "fruit",
+    "weightG": 1000,
+    "desc": "Vanilla sponge with whipped cream and a colourful topping of seasonal fresh fruits."
+  },
+  {
+    "name": "Red Velvet Cupcakes (Box of 6)",
+    "category": "cupcakes",
+    "occasions": [
+      "birthday",
+      "valentine"
+    ],
+    "flavor": "Red Velvet",
+    "price": 499,
+    "egg": true,
+    "tags": [
+      "trending"
+    ],
+    "theme": "redvelvet",
+    "weightG": 300,
+    "desc": "Six moist red velvet cupcakes with cream cheese frosting. Perfect for sharing or gifting."
+  },
+  {
+    "name": "Hazelnut Chocolate Brownies (Box of 6)",
+    "category": "brownies",
+    "occasions": [
+      "birthday",
+      "friendship-day"
+    ],
+    "flavor": "Chocolate Hazelnut",
+    "price": 599,
+    "egg": true,
+    "tags": [
+      "bestseller"
+    ],
+    "theme": "chocolate",
+    "weightG": 400,
+    "desc": "Fudgy chocolate brownies with roasted hazelnuts and a glossy ganache top. Box of six."
+  },
+  {
+    "name": "Tiramisu Cake",
+    "category": "premium",
+    "occasions": [
+      "anniversary",
+      "birthday"
+    ],
+    "flavor": "Coffee Mascarpone",
+    "price": 1349,
+    "egg": true,
+    "tags": [
+      "premium",
+      "new"
+    ],
+    "theme": "caramel",
+    "weightG": 1000,
+    "desc": "Coffee-soaked sponge layered with mascarpone cream and dusted with cocoa. A grown-up dessert cake."
+  },
+  {
+    "name": "Rainbow Surprise Cake",
+    "category": "kids",
+    "occasions": [
+      "birthday",
+      "kids"
+    ],
+    "flavor": "Vanilla Rainbow",
+    "price": 999,
+    "egg": true,
+    "tags": [
+      "trending"
+    ],
+    "theme": "blush",
+    "weightG": 1000,
+    "desc": "Vanilla cake with rainbow-coloured layers hidden inside. Kids love cutting the first slice."
+  },
+  {
+    "name": "Anniversary Rose Heart Cake",
+    "category": "designer",
+    "occasions": [
+      "anniversary",
+      "valentine"
+    ],
+    "flavor": "Red Velvet Rose",
+    "price": 1299,
+    "egg": true,
+    "tags": [
+      "seasonal"
+    ],
+    "theme": "blush",
+    "weightG": 1000,
+    "desc": "Heart-shaped red velvet cake with rose-flavoured cream and edible rose petals.",
+    "was": 1499
+  }
+]
